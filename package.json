@@ -1,6 +1,7 @@
 {
   "name": "circomx-template",
   "type": "module",
+  "version": "1.0.0",
   "packageManager": "yarn@3.3.1",
   "devDependencies": {
     "@types/node": "^20.7.2",
